@@ -1,0 +1,2 @@
+# Lenovo-m920x
+Lenovo m920x Hackintosh
